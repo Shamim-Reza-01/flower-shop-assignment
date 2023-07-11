@@ -12,17 +12,19 @@ h1 {
     padding-bottom: 20px;
 }
 
-h2{
+h2 {
     font-size: 40px;
-    padding-bottom: 10px;  
+    padding-bottom: 10px;
 }
+
 p {
     font-size: 18px;
     color: rgba(39, 39, 39, 0.60);
     padding-bottom: 20px
 }
 
-.continear-t-i, .continear-t-i-2 {
+.continear-t-i,
+.continear-t-i-2 {
     background: rgba(229, 84, 115, 0.10);
     width: 1920px;
     height: 850px;
@@ -46,5 +48,17 @@ p {
     background-color: red;
     color: white;
     padding: 15px 30px;
+    border-radius: 8px;
+    border: none;
+}
 
+.four-s-d {
+    background-color: white;
+    width: 1920px;
+    height: 4867px;
+}
+
+.four-1-d{
+    text-align: center;
+    padding: 130px;
 }
