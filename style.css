@@ -58,7 +58,39 @@ p {
     height: 4867px;
 }
 
-.four-1-d{
+.four-1-d {
     text-align: center;
-    padding: 130px;
+    padding-top: 130px;
+
+}
+
+.section-4-div-2 {
+    display: flex;
+    margin: 48px 240px;
+    justify-content: center;
+}
+
+.img {
+    margin: 10px;
+}
+
+.section-4-div-3 {
+    width: 1440px;
+    height: 449px;
+    background-image: url("Flower Asset/Rectangle 9.png");
+    margin: 80px 240px;
+}
+
+input {
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+    height: 64px;
+    margin-top: 48px;
+    margin-right: 20px;
+}
+
+.section-4-div-3-div {
+    text-align: center;
+    padding: 120px;
 }
